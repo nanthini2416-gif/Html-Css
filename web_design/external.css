@@ -1,0 +1,13 @@
+h2 {
+    color: darkgreen;
+    background-color: lightyellow;
+    height: 90px;
+    width: 350px;
+}
+
+p {
+    color: navy;
+    background-color: skyblue;
+    height: 120px;
+    width: 450px;
+}
